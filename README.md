@@ -10,7 +10,7 @@
 ### PET проекты:
 📌 ## Разгадыватель судоку <br>
 Когда я изучала javascript, пришла идея написать разгадыватель судоку и применить полученые знания на практике.<br><br>
-Стек: Javascript, Jquery, HTML, CSS <br><br>[bot](https://t.me/yula_test_bot)
+Стек: Javascript, Jquery, HTML, CSS <br><br> [bot](https://t.me/yula_test_bot)
 https://github.com/Yuliya90/sudoku_puzzle <br><br>
 
 📌 ## Нейро сотрудник <br>
